@@ -1,2 +1,2 @@
-# Calculator
-Basic calculator repository used to demonstrate CI principles
+# COMP0035_CI
+Basic calculator class and unit test used to demonstrate CI principles using CircleCI
